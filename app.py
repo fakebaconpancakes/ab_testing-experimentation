@@ -13,8 +13,8 @@ st.markdown("An interactive dashboard to evaluate campaign efficiency and identi
 
 @st.cache_data
 def load_data():
-    df_control = pd.read_csv("cleaned_data\cleaned_control.csv")
-    df_test = pd.read_csv("cleaned_data\cleaned_test.csv")
+    df_control = pd.read_csv("cleaned_data/cleaned_control.csv")
+    df_test = pd.read_csv("cleaned_data/cleaned_test.csv")
     return df_control, df_test
 
 df_control, df_test = load_data()
