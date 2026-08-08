@@ -26,7 +26,7 @@ with tab1:
     st.header("Problem Statement")
     col1, col2, col3 = st.columns([1, 2, 1])
     with col2:
-        st.image(r"fig\AB_pic.png", use_container_width=True)
+        st.image("fig/AB_pic.png", use_container_width=True)
     st.markdown("""
     A company recently ran a 30-day A/B test to evaluate a new marketing campaign (Test Group) against their existing strategy (Control Group). 
     
