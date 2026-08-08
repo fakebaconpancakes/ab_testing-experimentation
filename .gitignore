@@ -1,0 +1,18 @@
+# --- Python & Environments ---
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.env
+.venv/
+instacart-env/
+
+# --- Jupyter Notebook ---
+.ipynb_checkpoints/
+
+# --- Streamlit ---
+.streamlit/secrets.toml
+
+# --- IDEs / Editors ---
+.vscode/
