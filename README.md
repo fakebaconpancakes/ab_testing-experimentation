@@ -2,6 +2,8 @@
 
 An end-to-end marketing analytics project that turns campaign-level data into a launch recommendation. The project combines exploratory analysis, conversion-funnel diagnostics, non-parametric hypothesis testing, bootstrap confidence intervals, and an interactive financial simulator in a Streamlit dashboard.
 
+**View the Live Interactive Dashboard:** [Click here to open the Streamlit App]([https://abtesting-advertising-experimentation.streamlit.app/])
+
 ![Dashboard preview](fig/AB_pic.png)
 
 ## Executive Summary
